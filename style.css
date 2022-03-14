@@ -1,0 +1,73 @@
+body {
+	background-color: lightgrey
+
+}
+
+.background{
+	
+		background-color: lightblue;
+
+	
+}
+
+
+
+table, th{
+	border: 1px solid;
+	background-color: #98c1d9;
+}
+h1 {
+	font-family:  Helvetica, serif;
+	text-align:  left;
+	border:2px white;
+}
+h3 {
+	font-family:  Helvetica, serif;
+	color:  navy;
+	text-align: left;
+	padding: 10px;
+	border:2px;
+}
+
+h2{
+	font-family:  Helvetica, serif;
+}
+li{
+	padding: 10px;
+}
+
+
+dt{
+	padding: 10px;
+}
+dd{
+	padding: 10px;
+}
+nav{
+	position: relative;
+	padding: 10px;
+	margin:  0 auto;
+	text-align: center;
+	z-index: 1;
+	
+
+}
+
+.element1{
+
+		text-align: center;
+
+
+
+
+
+	}
+
+
+p {
+	font-family:  Helvetica, serif;
+	color: black;
+	text-align: left;
+	border:2px black;
+
+}
